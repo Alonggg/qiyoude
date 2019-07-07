@@ -15,6 +15,10 @@
 			msg:""
 		},
 		methods:{
+			clAll() {
+				console.log("All");
+				
+			},
 
 			render() {
 				axios({
